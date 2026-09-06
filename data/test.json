@@ -3,42 +3,22 @@
     {
       "username": "demo",
       "password": "123456",
-      "expire_date": "2026-12-31",
-      "max_devices": 2,
-      "account_status": "active",
-      "devices": []
+      "status": "active",
+      "plan": "Premium",
+      "expireDate": "2026-12-31",
+      "maxDevices": 2,
+      "devices": [],
+      "note": "Premium account"
     },
     {
-      "username": "user01",
-      "password": "pass123",
-      "expire_date": "2026-11-30",
-      "max_devices": 2,
-      "account_status": "active",
-      "devices": []
-    },
-    {
-      "username": "user02",
-      "password": "pass456",
-      "expire_date": "2026-10-31",
-      "max_devices": 2,
-      "account_status": "active",
-      "devices": []
-    },
-    {
-      "username": "user03",
-      "password": "pass789",
-      "expire_date": "2026-09-07",
-      "max_devices": 1,
-      "account_status": "active",
-      "devices": []
-    },
-    {
-      "username": "user04",
+      "username": "test",
       "password": "test123",
-      "expire_date": "2027-01-31",
-      "max_devices": 2,
-      "account_status": "active",
-      "devices": []
+      "status": "active",
+      "plan": "Basic",
+      "expireDate": "2026-10-31",
+      "maxDevices": 2,
+      "devices": [],
+      "note": "Basic account"
     }
   ]
 }
