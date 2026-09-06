@@ -5,7 +5,7 @@
       "password": "123456",
       "status": "active",
       "plan": "Premium",
-      "expireDate": "2026-12-31",
+      "expireDate": "2026-08-31",
       "maxDevices": 2,
       "devices": [],
       "note": "Premium account"
