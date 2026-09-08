@@ -20,3 +20,4 @@ ll288op.cloudatacdn.com
 cloudatacdn.com
 lh3.googleusercontent.com
 ajax.googleapis.com
+sample.com
