@@ -1,0 +1,17 @@
+streamhls.to
+static.cloudflareinsights.com
+img.savefiles.com
+savefiles.com
+s4.savefiles.com
+s3.savefiles.com
+prd.jwpltx.com
+ssl.p.jwpcdn.com
+playmogo.com
+i.doodcdn.io
+cdnjs.cloudflare.com
+challenges.cloudflare.com
+dodoimg.com
+static.doodcdn.io
+ss598lo.cloudatacdn.com
+dodoimg.com
+eugenemakedraw.com
