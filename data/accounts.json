@@ -8,7 +8,7 @@
       "plan": "PREMIUM",
       "status": "active",
       "banned": false,
-      "expireDate": "2026-12-31",
+      "expireDate": "2026-09-09",
       "maxDevices": 2,
       "devices": []
     },
